@@ -1,5 +1,5 @@
 # A.B.R.A. v.01
-Arnold Beauty Re-build App (A.B.R.A.) is an application that creates a node graph by shuffling all the necessary AOVs which contain lighting data (e.g. Diffuse, Specular, Transmission) of the selected light group for a beauty rebuild workflow in Nuke using Arnold. This application will allow Nuke compositors that work with Arnold to save time with only a couple of clicks and inputs.
+Arnold Beauty Re-build App (A.B.R.A.) is an application that creates a node graph by shuffling all the necessary AOVs which contain lighting data (e.g. Diffuse, Specular, Transmission) of the selected light group for a beauty rebuild workflow in Nuke using Arnold. This application will allow Nuke compositors that work with Arnold to save time with only a couple of clicks and inputs. Check out this[short demo] (https://vimeo.com/roo3d/abra)
 
 ## Installation
 Here’s how to install and use the Nuke Survival Toolkit:
